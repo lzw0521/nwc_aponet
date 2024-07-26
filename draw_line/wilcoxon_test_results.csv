@@ -1,0 +1,31 @@
+Comparison,Metric,Wilcoxon Statistic,p-value
+GA vs SA,Time Cost,0.0,0.25
+GA vs SA,Balance,1.0,0.5
+GA vs SA,Running Time,0.0,0.25
+GA vs NSGA-II,Time Cost,0.0,0.25
+GA vs NSGA-II,Balance,0.0,0.25
+GA vs NSGA-II,Running Time,0.0,0.25
+GA vs GNN+DiSPN,Time Cost,0.0,0.25
+GA vs GNN+DiSPN,Balance,2.0,0.75
+GA vs GNN+DiSPN,Running Time,0.0,0.25
+GA vs NWC-APONet,Time Cost,0.0,0.25
+GA vs NWC-APONet,Balance,1.0,0.5
+GA vs NWC-APONet,Running Time,0.0,0.25
+SA vs NSGA-II,Time Cost,0.0,0.25
+SA vs NSGA-II,Balance,0.0,0.25
+SA vs NSGA-II,Running Time,0.0,0.25
+SA vs GNN+DiSPN,Time Cost,0.0,0.25
+SA vs GNN+DiSPN,Balance,0.0,0.25
+SA vs GNN+DiSPN,Running Time,0.0,0.25
+SA vs NWC-APONet,Time Cost,0.0,0.25
+SA vs NWC-APONet,Balance,0.0,0.25
+SA vs NWC-APONet,Running Time,0.0,0.25
+NSGA-II vs GNN+DiSPN,Time Cost,0.0,0.25
+NSGA-II vs GNN+DiSPN,Balance,0.0,0.25
+NSGA-II vs GNN+DiSPN,Running Time,0.0,0.25
+NSGA-II vs NWC-APONet,Time Cost,0.0,0.25
+NSGA-II vs NWC-APONet,Balance,0.0,0.25
+NSGA-II vs NWC-APONet,Running Time,0.0,0.25
+GNN+DiSPN vs NWC-APONet,Time Cost,0.0,0.25
+GNN+DiSPN vs NWC-APONet,Balance,0.0,0.25
+GNN+DiSPN vs NWC-APONet,Running Time,1.0,0.5
