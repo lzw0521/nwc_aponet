@@ -8,7 +8,7 @@
  - The official implementation can be found [Here](https://github.com/YujiaoHu/MinMax-MTSP).
  - Paper reference:
 
-```
+```Lu Z, Wang Y, Dai F, et al. A reinforcement learning-based optimization method for task allocation of agricultural multi-robots clusters[J]. Computers and Electrical Engineering, 2024, 120: 109752.
 
 ```
  - We claim that our implementation has the better performance than the original one.
